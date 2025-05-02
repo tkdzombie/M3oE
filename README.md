@@ -1,4 +1,4 @@
-# Gunner Model README
+# README
 
 ## Overview
 A PyTorch implementation of a transformer-based model with memory-enhanced multi-scale attention and mixture-of-experts (MoE) architecture for sequence classification tasks.
