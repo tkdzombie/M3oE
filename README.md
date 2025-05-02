@@ -62,4 +62,5 @@ results = ablation.run_full_ablation_study()
 - `log.txt`: Training logs
 - `train.pt`/`test.pt`: Training/test data
 
-Note: The model supports both CUDA and CPU execution.
+Note: 
+If you have any questions, you can contact me at the following email：wy1614868211@163.com
